@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+outputs/review_logs/approval_history.csv
